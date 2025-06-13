@@ -1,0 +1,63 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.billing-container {
+  background: white;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.billing-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.billing-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.billing-form label {
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+.billing-form input,
+.billing-form textarea {
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.billing-form textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.billing-form button {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #0071e3;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.billing-form button:hover {
+  background: #005bb5;
+}

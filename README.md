@@ -4,8 +4,6 @@
 
 A sleek, responsive Apple-style product showcase website built using HTML & CSS. Inspired by Apple's clean design principles — smooth visuals, elegant layout, and intuitive user experience.
 
----
-
 🔗 **Live Demo:**  
 👉 [View Site](https://aswinash05.github.io/Apple_inspired_web/)
 

@@ -1,6 +1,6 @@
-# 🍏 Apple-Inspired Web UI
+<hi align=center">🍏 Apple-Inspired Web UI
 
-![Apple UI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Apple%20Inspired%20Web%20UI&fontSize=30&fontColor=ffffff)
+<hi align=center">![Apple UI Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Apple%20Inspired%20Web%20UI&fontSize=30&fontColor=ffffff)
 
 A sleek, responsive Apple-style product showcase website built using HTML & CSS. Inspired by Apple's clean design principles — smooth visuals, elegant layout, and intuitive user experience.
 
@@ -51,11 +51,6 @@ A sleek, responsive Apple-style product showcase website built using HTML & CSS.
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ Thankyou guys
 
-To run this project locally:
-
-```bash
-git clone https://github.com/AswinAsh05/Apple_inspired_web.git
-cd Apple_inspired_web
-open index.html
+You can access the files in my github...
